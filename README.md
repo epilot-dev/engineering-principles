@@ -1,5 +1,7 @@
 # Engineering Principles
 
+<img src="./epilot-logo.svg">
+
 The following is a list of core principles [epilot](https://epilot.cloud/) engineers use to make decisions in their daily work building our software product.
 
 <!-- toc -->
