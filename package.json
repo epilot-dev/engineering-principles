@@ -1,0 +1,20 @@
+{
+  "name": "@epilot-dev/engineering-principles",
+  "version": "1.0.0",
+  "description": "The following is a list of core principles [epilot](https://epilot.cloud/) engineers use to make decisions in their daily work building our software product.",
+  "main": "index.js",
+  "scripts": {
+    "toc": "markdown-toc -i ./README.md --maxdepth 2",
+    "postinstall": "husky install"
+  },
+  "keywords": [
+    "engineering",
+    "principles"
+  ],
+  "author": "Epilot GmbH",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^5.0.6",
+    "markdown-toc": "^1.2.0"
+  }
+}
