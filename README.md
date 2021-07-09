@@ -6,14 +6,32 @@ The following is a list of core principles [epilot](https://epilot.cloud/) engin
 
 <!-- toc -->
 
+- [Freedom and responsibility](#freedom-and-responsibility)
 - [Ownership: You build it, you run it](#ownership-you-build-it-you-run-it)
 - [API First: We design software with APIs](#api-first-we-design-software-with-apis)
 - [Rent over build: We rent the necessary and focus on building the important](#rent-over-build-we-rent-the-necessary-and-focus-on-building-the-important)
 - [Proof-of-concepts: Show, don’t tell](#proof-of-concepts-show-dont-tell)
-- [Aligned autonomy: Our teams move independently but in the same direction](#aligned-autonomy-our-teams-move-independently-but-in-the-same-direction)
 - [Progress over perfection](#progress-over-perfection)
 
 <!-- tocstop -->
+
+## Freedom and Responsibility
+
+We hire smart people who we can trust.
+
+We operate by principles and expect our teams to cultivate a strategic mindset.
+
+Teams and individuals are able to choose their own tools and go outside of what has been previously used in order to keep delivering product value. 
+
+Teams are experts in their domains and own their decisions and the consequences of their decisions.
+
+Experts provide support for decisions but do not act as gatekeepers.
+
+### Why?
+
+- **Speed**: Independency means speed, because teams can make their own decisions and don’t have to wait for centralized organs to approve everything they do.
+- **Ownership**: Independency means ownership, because teams have to live with their decisions
+- **Motivation**: Autonomy motivates, because teams are expected to find solutions for their challenges.
 
 ## Ownership: You build it, you run it
 
@@ -80,23 +98,7 @@ The purpose of a POC is to prove the feasibility of a design and get a feel for 
 - **Things happen**: Even with thorough design work and great planning, things will change after you start building.
 - **Code wins arguments**: Proof-of-concepts are a great, concrete tool to convey an idea and avoid wasting time on abstract discussion. They can be used to get feedback early and also help catch obvious issues with the design.
 
-## Aligned autonomy: Our teams move independently but in the same direction
 
-We hire smart people who we can trust.
-
-We operate by principles and expect our teams to cultivate a strategic mindset, so that everyone has a sense of how their work helps epilot to move closer to its vision.
-
-Teams and individuals are able to choose their own tools and go outside of what has been previously used when needed to move things forward.
-
-Teams are experts in their domains and own their decisions and the consequences of their decisions.
-
-Experts provide support for decisions but do not act as gatekeepers.
-
-### Why?
-
-- **Speed**: Independency means speed, because teams can make their own decisions and don’t have to wait for centralized organs to approve everything they do.
-- **Ownership**: Independency means ownership, because teams have to live with their decisions
-- **Motivation**: Autonomy motivates, because teams are expected to find solutions for their challenges.
 
 ## Progress over perfection
 
