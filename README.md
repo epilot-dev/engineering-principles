@@ -8,6 +8,7 @@ The following is a list of core principles [epilot](https://epilot.cloud/) engin
 
 - [Freedom and responsibility](#freedom-and-responsibility)
 - [Ownership: You build it, you run it](#ownership-you-build-it-you-run-it)
+- [Solutions over problems](#solutions-over-problems)
 - [API First: We design software with APIs](#api-first-we-design-software-with-apis)
 - [Rent over build: We rent the necessary and focus on building the important](#rent-over-build-we-rent-the-necessary-and-focus-on-building-the-important)
 - [Proof-of-concepts: Show, don’t tell](#proof-of-concepts-show-dont-tell)
@@ -48,6 +49,24 @@ We expect teams to automate testing, deployment and monitoring of their features
 - **Operational Efficiency** - A high degree of automation, monitoring and utilising managed infrastructure to build reliable software frees up the time of engineers to focus on development instead of operations. We don’t need to hire dedicated Ops engineers to keep things stable.
 - **Higher Quality** - Bringing engineers closer to the day-to-day operation of our business establishes a direct feedback loop with our users and allows for faster iteration and ultimately higher quality software design.
 - **Accountability** - Being responsible for operations for the code we write is an incentive to do things better. Nobody wants to wake up during the night to fix a memory leak in production.
+
+## Solutions over Problems
+
+“Problem-solving leaders have one thing in common: a faith that there’s always a better way.” – Gerald M. Weinberg
+
+We expect all our engineers to be leaders on this one, when faced with a problem or when identifying a possible problem, all our engineers are incentivized to apply a proactive approach towards helping find solutions over raising problems for someone else to fix. The guideline below lists a set of steps that can be applied to any problem:
+- Inception, identify the stakeholders, the multiple points of view, and mitigate any communication issues, be transparent about your doubts
+- Negotiation, identify the scope of the problem, some solutions may have pitfalls, but it's important to understand the use cases that they address first
+- Elaboration, with the foundation in place, analyze possible solutions or alternative solutions for an already proposed solution
+- Negotiation is the cooperation phase, you should now engage with other team members and reach for feedback about the possible solutions you found to a problem or an incomplete solution
+- Specification, finally after coming up with an agreement on a solution, modify an existing RFC (Request for Comments) or produce a new one
+- Validation, share your RFC and gather enough feedback to produce a PoC (Proof of Concept). We incentive the should don't tell culture.
+- Requirement Management, once you have all the above done, you have all the data you need to organize work into actionable backlog items.
+
+### Why?
+
+- **Collaboration**: Engineers should collaborate towards finding solutions. Everyone can present problems, we are the last line of defence against problems, we are the solution makers, and we should behave as such.
+- **Productivity**: We are all much more productive when discussing over concrete data, like an alternative solution or a concrete solution for a concrete problem. Raising a problem just for the sake of raising a problem, does not provide that much value.
 
 ## API First: We design software with APIs
 
@@ -114,5 +133,3 @@ Neither does it mean we compromise on quality, nor does it mean we aim to build 
 
 - **Quick iteration**: Technology is an accelerator for innovation and ultimately solves problems for customers. So the longer a solution for a real problem is perfected and does not get into the hands of our customers, the longer we miss to innovate and drive real customer value.
 - **Big Picture**: It’s easy to overengineer something and solve problems that might not exists or might not be a real problem at the moment (optimize for the unknown future)
-
-
