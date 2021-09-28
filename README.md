@@ -6,13 +6,20 @@ The following is a list of core principles [epilot](https://epilot.cloud/) engin
 
 <!-- toc -->
 
-- [Freedom and responsibility](#freedom-and-responsibility)
+- [Freedom and Responsibility](#freedom-and-responsibility)
+  - [Why?](#why)
 - [Ownership: You build it, you run it](#ownership-you-build-it-you-run-it)
-- [Solutions over problems](#solutions-over-problems)
+  - [Why?](#why-1)
+- [Show, don’t tell: Deliver working software early and frequently.](#show-dont-tell-deliver-working-software-early-and-frequently)
+  - [Why?](#why-2)
+- [Solutions over Problems](#solutions-over-problems)
+  - [Why?](#why-3)
 - [API First: We design software with APIs](#api-first-we-design-software-with-apis)
+  - [Why?](#why-4)
 - [Rent over build: We rent the necessary and focus on building the important](#rent-over-build-we-rent-the-necessary-and-focus-on-building-the-important)
-- [Proof-of-concepts: Show, don’t tell](#proof-of-concepts-show-dont-tell)
+  - [Why?](#why-5)
 - [Progress over perfection](#progress-over-perfection)
+  - [Why?](#why-6)
 
 <!-- tocstop -->
 
@@ -49,6 +56,20 @@ We expect teams to automate testing, deployment and monitoring of their features
 - **Operational Efficiency** - A high degree of automation, monitoring and utilising managed infrastructure to build reliable software frees up the time of engineers to focus on development instead of operations. We don’t need to hire dedicated Ops engineers to keep things stable.
 - **Higher Quality** - Bringing engineers closer to the day-to-day operation of our business establishes a direct feedback loop with our users and allows for faster iteration and ultimately higher quality software design.
 - **Accountability** - Being responsible for operations for the code we write is an incentive to do things better. Nobody wants to wake up during the night to fix a memory leak in production.
+
+## Show, don’t tell: Deliver working software early and frequently.
+
+We believe in the basic Agile principle of "Release early and release often". This approach helps us manage risk and make better decisions by creating fast feedback loops between ourselves and our users.
+
+While prototypes and proof-of-concepts can be great tools early on, we should always maintain shippable code. Avoid creating technical debt. Don't depend on polish happening later. 
+
+Gather feedback where uncertainty exists. We are our own best testing team and as software professionals we shouldn't let our users remind us what quality software looks like. Don't ship and apologise for incomplete or broken features. Ship [minimum lovable products](https://productschool.com/blog/product-management-2/minimum-lovable-product/) instead.
+
+### Why?
+
+- **Code wins arguments**: Debating abstract ideas leads to endless meetings. A working piece of software is always better than architecture diagrams and RFCs.
+- **Move fast**: Putting feedback loops in place early on helps us make more informed decisions collaboratively and commit to deliverables that create tangible progress.
+- **Risk management**: Even with thorough design work and great planning, unplanned work is guaranteed to appear once you're in the process of building. So better start early. 
 
 ## Solutions over Problems
 
@@ -98,24 +119,6 @@ This notion applies to all aspects of our software delivery:
 - **Shoulders of giants**: Build smarter and faster by taking what other’s have built before us and assembling those things together
 - **Focus**: Rely on expert solutions and tooling to free up our engineers to focus on the unique problems that provide the most value for our customers
 - **Cost Efficiency**: Reduce costs (operating, maintenance, development, etc.) by renting
-
-## Proof-of-concepts: Show, don’t tell
-
-Often the best way to move things forward is to stop discussing and start building.
-
-Building a concrete POC, an incomplete and intentionally corner-cutting version of a proposed feature helps move the design forward and discover problems with the design early on.
-
-A proof-of-concept should include the critical parts of the system to discover and hopefully prove the end-to-end feasibility of the proposed design.
-
-Proof-of-concepts should be small enough to build with very low effort and be completely disposable. It should be expected that any work done and code written to build a POC will likely be discarded.
-
-The purpose of a POC is to prove the feasibility of a design and get a feel for what the end result might look like with as low upfront effort as possible.
-
-### Why?
-
-- **Fewer meetings**: Trying to rally everyone in the company behind an idea or a new feature can easily result in an endless cycle of meetings and abstract arguments.
-- **Things happen**: Even with thorough design work and great planning, things will change after you start building.
-- **Code wins arguments**: Proof-of-concepts are a great, concrete tool to convey an idea and avoid wasting time on abstract discussion. They can be used to get feedback early and also help catch obvious issues with the design.
 
 
 
