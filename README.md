@@ -69,7 +69,7 @@ Gather feedback where uncertainty exists. We are our own best testing team and a
 
 - **Code wins arguments**: Debating abstract ideas leads to endless meetings. A working piece of software is always better than architecture diagrams and RFCs.
 - **Move fast**: Putting feedback loops in place early on helps us make more informed decisions collaboratively and commit to deliverables that create tangible progress.
-- **Risk management**: Even with thorough design work and great planning, unplanned work is guaranteed to appear once you're in the process of building. So better start early. 
+- **Risk management**: Even with great design and careful planning, unplanned work is guaranteed to appear once you're in the process of building. So better start early. 
 
 ## Solutions over Problems
 
