@@ -75,14 +75,7 @@ Gather feedback where uncertainty exists. We are our own best testing team and a
 
 “Problem-solving leaders have one thing in common: a faith that there’s always a better way.” – Gerald M. Weinberg
 
-We expect all our engineers to be leaders on this one, when faced with a problem or when identifying a possible problem, all our engineers are incentivized to apply a proactive approach towards helping find solutions over raising problems for someone else to fix. The guideline below lists a set of steps that can be applied to any problem:
-- Inception, identify the stakeholders, the multiple points of view, and mitigate any communication issues, be transparent about your doubts
-- Negotiation, identify the scope of the problem, some solutions may have pitfalls, but it's important to understand the use cases that they address first
-- Elaboration, with the foundation in place, analyze possible solutions or alternative solutions for an already proposed solution
-- Negotiation is the cooperation phase, you should now engage with other team members and reach for feedback about the possible solutions you found to a problem or an incomplete solution
-- Specification, finally after coming up with an agreement on a solution, modify an existing RFC (Request for Comments) or produce a new one
-- Validation, share your RFC and gather enough feedback to produce a PoC (Proof of Concept). We incentive the should don't tell culture.
-- Requirement Management, once you have all the above done, you have all the data you need to organize work into actionable backlog items.
+We expect all our engineers to be leaders on this one, when faced with a problem or when identifying a possible problem, engineers should apply a proactive approach towards finding solutions over raising problems for someone else to fix.
 
 ### Why?
 
