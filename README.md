@@ -75,7 +75,7 @@ Gather feedback where uncertainty exists. We are our own best testing team and a
 
 “Problem-solving leaders have one thing in common: a faith that there’s always a better way.” – Gerald M. Weinberg
 
-We expect all our engineers to be leaders on this one, when faced with a problem or when identifying a possible problem, engineers are incentivized to apply a proactive approach towards finding solutions over raising problems for someone else to fix.
+We expect all our engineers to be leaders on this one, when faced with a problem or when identifying a possible problem, engineers should apply a proactive approach towards finding solutions over raising problems for someone else to fix.
 
 ### Why?
 
