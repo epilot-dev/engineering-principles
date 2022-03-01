@@ -67,7 +67,7 @@ Gather feedback where uncertainty exists. We are our own best testing team and a
 
 ## Cult of Quality
 
-We are building a cult of quality. The code we produce is always our best work and the most important representation of our level of professional competence.
+We are making a [cult of quality](https://www.alchemists.io/articles/peopleware/#_make_a_cult_of_quality). The code we produce is always our best work and the most important representation of our level of professional competence.
 
 It's our job to prevent the accumulation of technical debt and maintain the productivity and happiness of our fellow engineers. We refuse any request to lower our quality standards for the sake of cutting corners.
 
