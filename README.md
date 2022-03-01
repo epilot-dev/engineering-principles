@@ -67,7 +67,7 @@ Gather feedback where uncertainty exists. We are our own best testing team and a
 
 ## Cult of Quality
 
-We are making a [cult of quality](https://www.alchemists.io/articles/peopleware/#_make_a_cult_of_quality). The code we produce is always our best work and the most important representation of our level of professional competence.
+Our teams appear cult-like when it comes to quality. We believe the code we produce is always our best work and represents our level of professional competence. No excuses.
 
 It's our job to prevent the accumulation of technical debt and maintain the productivity and happiness of our fellow engineers. We refuse any request to lower our quality standards for the sake of cutting corners.
 
@@ -76,7 +76,7 @@ We do not rely on others, especially our customers, to test our software. [We ar
 ### Why?
 
 - **Professional pride**: For our own wellbeing as software engineers, it's extremely important to take pride in the quality of the code we write.
-- **Technical debt**: Sacrificing quality in the short term accumulates debt that can and will paralyze our ability to move fast later. We should never do anything that knowingly decreases our long-term productivity.
+- **Technical debt**: Sacrificing quality in the short term accumulates debt that can paralyze our ability to move fast later. We should never do anything that knowingly decreases our long-term productivity.
 - **Strong teams**: Quality as a non-negotiable, foundational value builds a sense of eliteness in our teams and binds us together as engineers behind a common cause.
 
 ## Solutions over Problems
