@@ -71,7 +71,7 @@ Our teams appear cult-like when it comes to quality. We believe the code we prod
 
 It's our job to prevent the accumulation of technical debt and maintain the productivity and happiness of our fellow engineers. We refuse any request to lower our quality standards for the sake of cutting corners.
 
-We do not rely on others, especially our customers, to test our software. [We are our own best testing team](https://github.com/anttiviljami/romero-programming-principles#principle-5-dont-rely-on-testers) and should never allow anyone else to experience bugs or see the our software crash. 
+We do not rely on others, especially our customers, to test our software. [We are our own best testing team](https://github.com/anttiviljami/romero-programming-principles#principle-5-dont-rely-on-testers) and should never allow anyone else to experience bugs or see our software crash. 
 
 ### Why?
 
