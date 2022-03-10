@@ -57,8 +57,6 @@ We believe in the basic Agile principle of "Release early and release often". Th
 
 While prototypes and proof-of-concepts can be great tools early on, we should always maintain shippable code. Avoid creating technical debt. Don't depend on polish happening later. 
 
-Gather feedback where uncertainty exists. We are our own best testing team and as software professionals we shouldn't let our users remind us what quality software looks like. Don't ship and apologise for incomplete or broken features. Ship [minimum lovable products](https://productschool.com/blog/product-management-2/minimum-lovable-product/) instead.
-
 ### Why?
 
 - **Code wins arguments**: Debating abstract ideas leads to endless meetings. A working piece of software is always better than architecture diagrams and RFCs.
