@@ -9,6 +9,7 @@ The following is a list of core principles [epilot](https://epilot.cloud/) engin
 - [Freedom and Responsibility](#freedom-and-responsibility)
 - [Ownership: You build it, you run it](#ownership-you-build-it-you-run-it)
 - [Show, don’t tell: Deliver working software early and frequently.](#show-dont-tell-deliver-working-software-early-and-frequently)
+- [Cult of Quality](#cult-of-quality)
 - [Solutions over Problems](#solutions-over-problems)
 - [API First: We design software with APIs](#api-first-we-design-software-with-apis)
 - [Rent over build: We rent the necessary and focus on building the important](#rent-over-build-we-rent-the-necessary-and-focus-on-building-the-important)
@@ -63,6 +64,20 @@ Gather feedback where uncertainty exists. We are our own best testing team and a
 - **Code wins arguments**: Debating abstract ideas leads to endless meetings. A working piece of software is always better than architecture diagrams and RFCs.
 - **Move fast**: Putting feedback loops in place early on helps us make more informed decisions collaboratively and commit to deliverables that create tangible progress.
 - **Risk management**: Even with great design and careful planning, unplanned work is guaranteed to appear once you're in the process of building. So better start early. 
+
+## Cult of Quality
+
+Our teams appear cult-like when it comes to quality. We believe the code we produce is always our best work and represents our level of professional competence. No excuses.
+
+It's our job to prevent the accumulation of technical debt and maintain the productivity and happiness of our fellow engineers. We refuse any request to lower our quality standards for the sake of cutting corners.
+
+We do not rely on others, especially our customers, to test our software. [We are our own best testing team](https://github.com/anttiviljami/romero-programming-principles#principle-5-dont-rely-on-testers) and should never allow anyone else to experience bugs or see our software crash. 
+
+### Why?
+
+- **Professional pride**: For our own wellbeing as software engineers, it's extremely important to take pride in the quality of the code we write.
+- **Technical debt**: Sacrificing quality in the short term accumulates debt that can paralyze our ability to move fast later. We should never do anything that knowingly decreases our long-term productivity.
+- **Strong teams**: Quality as a non-negotiable, foundational value builds a sense of eliteness in our teams and binds us together as engineers behind a common cause.
 
 ## Solutions over Problems
 
