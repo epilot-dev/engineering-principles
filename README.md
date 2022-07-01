@@ -119,17 +119,19 @@ This notion applies to all aspects of our software delivery:
 - **Focus**: Rely on expert solutions and tooling to free up our engineers to focus on the unique problems that provide the most value for our customers
 - **Cost Efficiency**: Reduce costs (operating, maintenance, development, etc.) by renting
 
-
-
 ## Progress over perfection
 
-A startup’s lifeblood is innovation and speed of delivery. Being innovative but slow is a risk because other software companies can easily copy our ideas and our alleged lead can quickly evaporate (e.g. Instagram vs. Snapchat).
+A startup’s lifeblood is innovation and speed of delivery. We accept that the pace of change in software, business and engineering is accelerating and embrace rapid cycle times.
+
+Being slow is a risk because it opens the door for other software companies to take our ideas and overtake us with speed, evaporating our alleged lead (e.g. Instagram vs. Snapchat).
 
 - To grow we need to constantly strive to deliver customer value as fast as possible.
 - We need to carefully separate the important from the unimportant.
 - We have to avoid over engineering a solution and constantly challenge what we do.
 
-Neither does it mean we compromise on quality, nor does it mean we aim to build the perfect solution that needs to last for the next 10 years. We accept that the pace of change in software, business and engineering is accelerating and embrace rapid cycle.
+In situations where we lack definitive answers based on real world data, we err on the side of speed and iteration over endless discussion and planning. 
+
+This doesn't mean we compromise on quality, and especially not security. Quality engineering allows us to maintain speed in the long term, while a restless focus on security ensures the continuity of our business.
 
 ### Why?
 
