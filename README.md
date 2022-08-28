@@ -21,9 +21,9 @@ The following is a list of core principles [epilot](https://epilot.cloud/) engin
 
 We hire smart people who we can trust.
 
-We operate by principles and expect our teams to cultivate a strategic mindset.
+We operate by principles and expect every individual to cultivate a strategic mindset.
 
-Teams and individuals are able to choose their own tools and go outside of what has been previously used in order to keep delivering product value. 
+Engineers should possess a Hacker mentality to make their own decisions with their tools and methods even going outside of our established "stack" when warranted.
 
 Teams are experts in their domains and own their decisions and the consequences of their decisions.
 
