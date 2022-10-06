@@ -9,7 +9,7 @@ The following is a list of core principles [epilot](https://epilot.cloud/) engin
 - [Freedom and Responsibility](#freedom-and-responsibility)
 - [Ownership: You build it, you run it](#ownership-you-build-it-you-run-it)
 - [Show, don’t tell: Deliver working software early and frequently.](#show-dont-tell-deliver-working-software-early-and-frequently)
-- [Cult of Quality](#cult-of-quality)
+- [Every Week is Quality Week](#every-week-is-quality-week)
 - [Solutions over Problems](#solutions-over-problems)
 - [API First: We design software with APIs](#api-first-we-design-software-with-apis)
 - [Rent over build: We rent the necessary and focus on building the important](#rent-over-build-we-rent-the-necessary-and-focus-on-building-the-important)
@@ -63,7 +63,7 @@ While prototypes and proof-of-concepts can be great tools early on, we should al
 - **Move fast**: Putting feedback loops in place early on helps us make more informed decisions collaboratively and commit to deliverables that create tangible progress.
 - **Risk management**: Even with great design and careful planning, unplanned work is guaranteed to appear once you're in the process of building. So better start early. 
 
-## Cult of Quality
+## Every Week is Quality Week
 
 Our teams appear cult-like when it comes to quality. We believe the code we produce is always our best work and represents our level of professional competence. No excuses.
 
