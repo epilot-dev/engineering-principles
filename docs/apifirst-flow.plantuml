@@ -1,0 +1,40 @@
+@startuml
+header API First / RFC Flow
+
+skinparam activity {
+  BackgroundColor<< PHASE >> gold
+  FontName Roboto
+}
+
+(*) --> "RFC Phase" << PHASE >>
+--> ===RFC===
+===RFC=== -->Describe High-Level Problem Context\nWith Proposed solution
+--> ===MOCK===
+
+===RFC=== -->Include concrete API Designs\ne.g: OpenAPI with a PR
+--> ===MOCK===
+
+===MOCK===-->"API Mocking" << PHASE >>
+
+-->Use serverless boilerplate to\ndeploy mocked version of API\n(w/ openapi-backend)
+--> ===FE===
+"API Mocking"-->Generate SDK API client\npart of the boilerplate\n(w/ openapi-client-axios)
+-->===FE===
+-->"Frontend Development" << PHASE >>
+
+"Frontend Development"-->Use create-mfe-app boilerplate\nto deploy microfrontend
+-->"Add feature toggle to\nhide feature in production"
+-->Develop microfrontend against\nmocked API contract
+-->Still cheap to rapidly change\nAPI Design/UI design during this phase
+-->"Backend Development" << PHASE >>
+-->Implement serverless backend\nusing AWS services according to API Design
+
+-->BETA Release << PHASE >>
+-->Once the feature is tested and ready\nfor internal/pilot customers to test\nship behind a BETA feature toggle
+-->Full Release << PHASE >>
+-->Remove BETA badge from toggle
+-->Marketing announces new feature
+-->Optional: Add userflow to guide users
+-->Not optional: Organise a launch party 🎉
+--> (*)
+@enduml

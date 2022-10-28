@@ -7,13 +7,21 @@ The following is a list of core principles [epilot](https://epilot.cloud/) engin
 <!-- toc -->
 
 - [Freedom and Responsibility](#freedom-and-responsibility)
+  - [Why?](#why)
 - [Ownership: You build it, you run it](#ownership-you-build-it-you-run-it)
-- [Show, don’t tell: Deliver working software early and frequently.](#show-dont-tell-deliver-working-software-early-and-frequently)
+  - [Why?](#why-1)
+- [Show, don’t tell: Deliver working software early and frequently](#show-dont-tell-deliver-working-software-early-and-frequently)
+  - [Why?](#why-2)
 - [Every Week is Quality Week](#every-week-is-quality-week)
+  - [Why?](#why-3)
 - [Solutions over Problems](#solutions-over-problems)
+  - [Why?](#why-4)
 - [API First: We design software with APIs](#api-first-we-design-software-with-apis)
+  - [Why?](#why-5)
 - [Rent over build: We rent the necessary and focus on building the important](#rent-over-build-we-rent-the-necessary-and-focus-on-building-the-important)
+  - [Why?](#why-6)
 - [Progress over perfection](#progress-over-perfection)
+  - [Why?](#why-7)
 
 <!-- tocstop -->
 
@@ -51,17 +59,17 @@ We expect teams to automate testing, deployment and monitoring of their features
 - **Higher Quality** - Bringing engineers closer to the day-to-day operation of our business establishes a direct feedback loop with our users and allows for faster iteration and ultimately higher quality software design.
 - **Accountability** - Being responsible for operations for the code we write is an incentive to do things better. Nobody wants to wake up during the night to fix a memory leak in production.
 
-## Show, don’t tell: Deliver working software early and frequently.
+## Show, don’t tell: Deliver working software early and frequently
 
 We believe in the basic Agile principle of "Release early and release often". This approach helps us manage risk and make better decisions by creating fast feedback loops between ourselves and our users.
 
-While prototypes and proof-of-concepts can be great tools early on, we should always maintain shippable code. Avoid creating technical debt. Don't depend on polish happening later. 
+While prototypes and proof-of-concepts can be great tools early on, we should always maintain shippable code. Avoid creating technical debt. Don't depend on polish happening later.
 
 ### Why?
 
 - **Code wins arguments**: Debating abstract ideas leads to endless meetings. A working piece of software is always better than architecture diagrams and RFCs.
 - **Move fast**: Putting feedback loops in place early on helps us make more informed decisions collaboratively and commit to deliverables that create tangible progress.
-- **Risk management**: Even with great design and careful planning, unplanned work is guaranteed to appear once you're in the process of building. So better start early. 
+- **Risk management**: Even with great design and careful planning, unplanned work is guaranteed to appear once you're in the process of building. So better start early.
 
 ## Every Week is Quality Week
 
@@ -69,7 +77,7 @@ Our teams appear cult-like when it comes to quality. We believe the code we prod
 
 It's our job to prevent the accumulation of technical debt and maintain the productivity and happiness of our fellow engineers. We refuse any request to lower our quality standards for the sake of cutting corners.
 
-We do not rely on others, especially our customers, to test our software. [We are our own best testing team](https://github.com/anttiviljami/romero-programming-principles#principle-5-dont-rely-on-testers) and should never allow anyone else to experience bugs or see our software crash. 
+We do not rely on others, especially our customers, to test our software. [We are our own best testing team](https://github.com/anttiviljami/romero-programming-principles#principle-5-dont-rely-on-testers) and should never allow anyone else to experience bugs or see our software crash.
 
 ### Why?
 
@@ -101,6 +109,8 @@ We encourage the usage of common, machine readable standards such as OpenAPI, Gr
 - **Productivity**: Teams work with a contract in mind and are able to work in parallel
 - **Transparency**: Commitment and agreement on what is expected from an engineering standpoint
 
+Our current implementation of this principle can be visualized on this <a href="./docs/apifirst-flow.svg" target="_blank">API-first RFC Flow</a>.
+
 ## Rent over build: We rent the necessary and focus on building the important
 
 First, we look at the business value of solving a problem to determine how much impact solving a problem will generate. This will help us to judge what is a necessity or basic expectation where we simply have to tick the box for our customers and what really sets our product apart from the rest, i.e. the unique that a customer will not get anywhere else.
@@ -129,7 +139,7 @@ Being slow is a risk because it opens the door for other software companies to t
 - We need to carefully separate the important from the unimportant.
 - We have to avoid over engineering a solution and constantly challenge what we do.
 
-In situations where we lack definitive answers based on real world data, we err on the side of speed and iteration over endless discussion and planning. 
+In situations where we lack definitive answers based on real world data, we err on the side of speed and iteration over endless discussion and planning.
 
 This doesn't mean we compromise on quality, and especially not security. Quality engineering allows us to maintain speed in the long term, while a restless focus on security ensures the continuity of our business.
 
