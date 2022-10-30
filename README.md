@@ -7,21 +7,13 @@ The following is a list of core principles [epilot](https://epilot.cloud/) engin
 <!-- toc -->
 
 - [Freedom and Responsibility](#freedom-and-responsibility)
-  - [Why?](#why)
 - [Ownership: You build it, you run it](#ownership-you-build-it-you-run-it)
-  - [Why?](#why-1)
 - [Show, don’t tell: Deliver working software early and frequently](#show-dont-tell-deliver-working-software-early-and-frequently)
-  - [Why?](#why-2)
 - [Every Week is Quality Week](#every-week-is-quality-week)
-  - [Why?](#why-3)
 - [Solutions over Problems](#solutions-over-problems)
-  - [Why?](#why-4)
 - [API First: We design software with APIs](#api-first-we-design-software-with-apis)
-  - [Why?](#why-5)
 - [Rent over build: We rent the necessary and focus on building the important](#rent-over-build-we-rent-the-necessary-and-focus-on-building-the-important)
-  - [Why?](#why-6)
 - [Progress over perfection](#progress-over-perfection)
-  - [Why?](#why-7)
 
 <!-- tocstop -->
 
