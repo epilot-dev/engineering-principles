@@ -55,13 +55,15 @@ We expect teams to automate testing, deployment and monitoring of their features
 
 We believe in the basic Agile principle of "Release early and release often". This approach helps us manage risk and make better decisions by creating fast feedback loops between ourselves and our users.
 
-While prototypes and proof-of-concepts can be great tools early on, we should always maintain shippable code. Avoid creating technical debt. Don't depend on polish happening later. 
+Value is what we want. Features deliver value. Delivering features early gives us value sooner.
+
+While prototypes and proof-of-concepts can be great tools early on, we should always maintain shippable code. Avoid creating technical debt. Don't depend on polish happening later.
 
 ### Why?
 
 - **Code wins arguments**: Debating abstract ideas leads to endless meetings. A working piece of software is always better than architecture diagrams and RFCs.
 - **Move fast**: Putting feedback loops in place early on helps us make more informed decisions collaboratively and commit to deliverables that create tangible progress.
-- **Risk management**: Even with great design and careful planning, unplanned work is guaranteed to appear once you're in the process of building. So better start early. 
+- **Risk management**: Even with great design and careful planning, unplanned work is guaranteed to appear once you're in the process of building. So better start early.
 
 ## Every Week is Quality Week
 
@@ -69,7 +71,7 @@ Our teams appear cult-like when it comes to quality. We believe the code we prod
 
 It's our job to prevent the accumulation of technical debt and maintain the productivity and happiness of our fellow engineers. We refuse any request to lower our quality standards for the sake of cutting corners.
 
-We do not rely on others, especially our customers, to test our software. [We are our own best testing team](https://github.com/anttiviljami/romero-programming-principles#principle-5-dont-rely-on-testers) and should never allow anyone else to experience bugs or see our software crash. 
+We do not rely on others, especially our customers, to test our software. [We are our own best testing team](https://github.com/anttiviljami/romero-programming-principles#principle-5-dont-rely-on-testers) and should never allow anyone else to experience bugs or see our software crash.
 
 ### Why?
 
@@ -129,7 +131,7 @@ Being slow is a risk because it opens the door for other software companies to t
 - We need to carefully separate the important from the unimportant.
 - We have to avoid over engineering a solution and constantly challenge what we do.
 
-In situations where we lack definitive answers based on real world data, we err on the side of speed and iteration over endless discussion and planning. 
+In situations where we lack definitive answers based on real world data, we err on the side of speed and iteration over endless discussion and planning.
 
 This doesn't mean we compromise on quality, and especially not security. Quality engineering allows us to maintain speed in the long term, while a restless focus on security ensures the continuity of our business.
 
