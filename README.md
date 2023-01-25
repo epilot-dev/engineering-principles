@@ -55,7 +55,7 @@ We expect teams to automate testing, deployment and monitoring of their features
 
 We believe in the basic Agile principle of "Release early and release often". This approach helps us manage risk and make better decisions by creating fast feedback loops between ourselves and our users.
 
-Value is what we want. Features deliver value. Delivering features early gives us value sooner.
+Value is what we want. Working software delivers value. Delivering working software early gives us value sooner.
 
 While prototypes and proof-of-concepts can be great tools early on, we should always maintain shippable code. Avoid creating technical debt. Don't depend on polish happening later.
 
