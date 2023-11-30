@@ -7,6 +7,7 @@ The following is a list of core principles [epilot](https://epilot.cloud/) engin
 <!-- toc -->
 
 - [Freedom and Responsibility](#freedom-and-responsibility)
+- [Continuous Delivery](#continuous-delivery)
 - [Ownership: You build it, you run it](#ownership-you-build-it-you-run-it)
 - [Show, don’t tell: Deliver working software early and frequently.](#show-dont-tell-deliver-working-software-early-and-frequently)
 - [Every Week is Quality Week](#every-week-is-quality-week)
@@ -34,6 +35,15 @@ Experts provide support for decisions but do not act as gatekeepers.
 - **Speed**: Independency means speed, because teams can make their own decisions and don’t have to wait for centralized organs to approve everything they do.
 - **Ownership**: Independency means ownership, because teams have to live with their decisions
 - **Motivation**: Autonomy motivates, because teams are expected to find solutions for their challenges.
+
+## Continuous Delivery
+
+We organize and develop our software as small decoupled services, with named engineers owning the maintenance and development of each service. These services are then integrated and deployed through a unified continuous delivery (CD) pipeline, incorporating automated end-to-end tests verifying functionality in the context of realistic use cases and data.
+
+### Why?
+- **Reliability** Our customers expect all features to work seamlessly together at all times. Testing end-to-end with realistic use cases helps prevent most regressions.
+- **Speed** Continuous delivery with automated testing allows us to ship with confidence and deliver features our customers want, faster.
+- **Modular architecture** Keeping services small and decoupled helps keep our software easier to reason about and maintain while allowing diversity in tech choices.
 
 ## Ownership: You build it, you run it
 
