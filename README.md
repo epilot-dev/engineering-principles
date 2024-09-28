@@ -2,7 +2,7 @@
 
 <p align="center"><img alt="epilot" src="./epilot-logo.png" width="200"></p>
 
-The following is a list of core principles [epilot](https://epilot.cloud/) engineers use to make decisions in their daily work building our software product.
+The following is a list of core principles [epilot](https://epilot.cloud/) product engineers ([What is a product engineer?](https://productengineer.org)) use to make decisions in their daily work.
 
 <!-- toc -->
 
