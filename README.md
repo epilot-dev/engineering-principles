@@ -9,6 +9,7 @@ The following is a list of core principles [epilot](https://epilot.cloud/) produ
 - [Freedom and Responsibility](#freedom-and-responsibility)
 - [Continuous Delivery](#continuous-delivery)
 - [Ownership: You build it, you run it](#ownership-you-build-it-you-run-it)
+- [Complete the Mission](#complete-the-mission)
 - [Show, don’t tell: Deliver working software early and frequently.](#show-dont-tell-deliver-working-software-early-and-frequently)
 - [Every Week is Quality Week](#every-week-is-quality-week)
 - [Solutions over Problems](#solutions-over-problems)
@@ -44,6 +45,22 @@ We organize and develop our software as small decoupled services, with named eng
 - **Reliability** Our customers expect all features to work seamlessly together at all times. Testing end-to-end with realistic use cases helps prevent most regressions.
 - **Speed** Continuous delivery with automated testing allows us to ship with confidence and deliver features our customers want, faster.
 - **Modular architecture** Keeping services small and decoupled helps keep our software easier to reason about and maintain while allowing diversity in tech choices.
+
+## Complete the Mission
+
+With Freedom and Responsibility comes trust, and it's almost certain you will end up leading a squad or initiative at some point, with individuals around you to support.
+
+As a leader, people look up to you as an example, and you look up to them. It’s your job to set them up for success and ensure they have the focus and clarity to execute.
+
+At the same time, a leader must complete the mission—delivering results while balancing the long-term health of our codebase, user experience, and sustainability. This means making trade-offs between speed, quality, technical debt, and customer value, ensuring we don’t optimize for short-term wins at the cost of long-term failure.
+
+### Why?
+
+- **Ownership**: In the end, it’s your job to set the team up for success—not just today but in the long run.
+- **Risk management**: You deeply care about the team, and sometimes you will have to make difficult decisions. Risks are necessary sometimes—but they should be taken deliberately, not recklessly.
+- **Balance**: Fast execution matters, but so does avoiding technical debt, maintaining quality, and delivering a great user experience. Completing the mission means balancing all of these.
+- **Accountability**: Risk is inherent in decision-making. When things go south, leaders don’t deflect blame—they step up and own the outcome.
+- **Transparency**: A strong leader makes the mission clear, aligns the team around priorities, and ensures urgency without chaos.
 
 ## Ownership: You build it, you run it
 
