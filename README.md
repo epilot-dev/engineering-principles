@@ -48,19 +48,8 @@ We organize and develop our software as small decoupled services, with named eng
 
 ## Complete the Mission
 
-With Freedom and Responsibility comes trust, and it's almost certain you will end up leading a squad or initiative at some point, with individuals around you to support.
-
-As a leader, people look up to you as an example, and you look up to them. It’s your job to set them up for success and ensure they have the focus and clarity to execute.
-
-At the same time, a leader must complete the mission—delivering results while balancing the long-term health of our codebase, user experience, and sustainability. This means making trade-offs between speed, quality, technical debt, and customer value, ensuring we don’t optimize for short-term wins at the cost of long-term failure.
-
-### Why?
-
-- **Ownership**: In the end, it’s your job to set the team up for success—not just today but in the long run.
-- **Risk management**: You deeply care about the team, and sometimes you will have to make difficult decisions. Risks are necessary sometimes—but they should be taken deliberately, not recklessly.
-- **Balance**: Fast execution matters, but so does avoiding technical debt, maintaining quality, and delivering a great user experience. Completing the mission means balancing all of these.
-- **Accountability**: Risk is inherent in decision-making. When things go south, leaders don’t deflect blame—they step up and own the outcome.
-- **Transparency**: A strong leader makes the mission clear, aligns the team around priorities, and ensures urgency without chaos.
+Execution matters more than details. If you don’t deliver, nothing else counts.
+There’s no credit for style, no excuses for setbacks, and no rewards for stopping short. This principle is about relentless focus—setting a clear mission and doing whatever it takes to achieve it. Perfection isn’t the goal; results are.
 
 ## Ownership: You build it, you run it
 
