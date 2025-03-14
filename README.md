@@ -48,8 +48,19 @@ We organize and develop our software as small decoupled services, with named eng
 
 ## Complete the Mission
 
-Execution matters more than details. If you don’t deliver, nothing else counts.
-There’s no credit for style, no excuses for setbacks, and no rewards for stopping short. This principle is about relentless focus—setting a clear mission and doing whatever it takes to achieve it. Perfection isn’t the goal; results are.
+Execution matters more than the details. If you don’t deliver, nothing else counts.
+
+Ownership is key—if something is your responsibility, it gets done. There’s no credit for effort alone, no excuses for setbacks, and no rewards for stopping short. This principle is about relentless focus on the outcome—setting a clear mission and ensuring it is achieved.
+	•	We take **full responsibility** for what we own and see it through to the end.
+	•	We **solve problems, not just highlight them**—delays and obstacles don’t excuse failure.
+	•	We don’t celebrate “almost done”—**real impact comes from delivery, not effort.**
+
+When faced with challenges, we find a way forward, take responsibility, and make it happen. Delivering results is what matters, whether in engineering, operations, product, or leadership.
+
+### Why?
+- **Ownership drives impact**: If no one owns a problem, it doesn’t get solved. Taking ownership means stepping up and ensuring real progress happens.
+- **Accountability creates trust**: Teams that take responsibility—both for successes and failures—are the ones people rely on.
+- **Delivery is the only measure of execution**: Ideas, discussions, and partial work mean nothing if they don’t translate into **real results**.
 
 ## Ownership: You build it, you run it
 
