@@ -8,8 +8,8 @@ The following is a list of core principles [epilot](https://epilot.cloud/) produ
 
 - [Freedom and Responsibility](#freedom-and-responsibility)
 - [Continuous Delivery](#continuous-delivery)
-- [Ownership: You build it, you run it](#ownership-you-build-it-you-run-it)
 - [Complete the Mission](#complete-the-mission)
+- [Ownership: You build it, you run it](#ownership-you-build-it-you-run-it)
 - [Show, don't tell: Deliver working software early and frequently.](#show-dont-tell-deliver-working-software-early-and-frequently)
 - [Every Week is Quality Week](#every-week-is-quality-week)
 - [Solutions over Problems](#solutions-over-problems)
@@ -17,8 +17,8 @@ The following is a list of core principles [epilot](https://epilot.cloud/) produ
 - [Rent over build: We rent the necessary and focus on building the important](#rent-over-build-we-rent-the-necessary-and-focus-on-building-the-important)
 - [Progress over perfection](#progress-over-perfection)
 - [Delete before optimizing](#delete-before-optimizing)
-- [Feasibility before vision](#feasibility-before-vision)
-- [Named requirements](#named-requirements)
+- [Engineers in discovery](#engineers-in-discovery)
+- [Named problems, not anonymous features](#named-problems-not-anonymous-features)
 
 <!-- tocstop -->
 
@@ -60,7 +60,7 @@ If something is your responsibility, it gets done. There's no credit for effort 
 - We **solve problems, not just highlight them**. Delays and obstacles don't excuse failure.
 - We don't celebrate "almost done". **Real impact comes from delivery, not effort.**
 
-Every initiative must have a single named owner. If no one owns it, it doesn't exist. If the owner can't execute, the initiative dies or gets a new owner — it doesn't get passed around as someone else's problem. Ownership is not delegable. You finish what you start, or you kill it honestly.
+Every initiative must have a named owner accountable for seeing it through – but that owner is accountable for the team's outcome, not a lone hero; the cross-functional team owns delivery together. If no one owns it, it doesn't exist. If the owner can't execute, the initiative dies or gets a new owner – it doesn't get passed around as someone else's problem. You finish what you start, or you kill it honestly.
 
 When faced with challenges, we find a way forward, take responsibility, and make it happen. Delivering results is what matters, whether in engineering, operations, product, or leadership.
 
@@ -145,7 +145,7 @@ First, we look at the business value of solving a problem to determine how much 
 
 Keeping the necessary vs. the important in mind, we focus on building the important unique features that provide business value and rent everything else off-the-shelf.
 
-This also applies to product features. Before building a capability, ask: do our customers already have a tool for this? If yes, integrate — don't compete. We build what's uniquely ours. We integrate everything else. The fastest way to deliver value is often connecting to something that already works rather than rebuilding it from scratch.
+This also applies to product features. Before building a capability, ask: do our customers already have a tool for this? Default to integrating with tools they already use rather than rebuilding them – we build what's uniquely ours and integrate everything else. The exception is when we can create clearly differentiated value by building it better: that's a deliberate bet, made on customer value, not a reflex to reinvent.
 
 This notion applies to all aspects of our software delivery:
 
@@ -194,31 +194,31 @@ If you're not regularly deleting things — code, processes, meetings, scope —
 - **Courage over comfort**: It's easier to add than to remove. Removing requires admitting something wasn't needed or didn't work. We value that honesty.
 - **Speed**: The fastest way to finish something is to realize it doesn't need to be done. Scope reduction is the most underused tool in engineering.
 
-## Feasibility before vision
+## Engineers in discovery
 
-No design or product vision gets roadmap priority without an engineering feasibility check.
+Engineers are involved from the start – not handed a finished design and asked to make it work. The people closest to the system know what's possible, what's cheap, and what's expensive, and that knowledge belongs in the room while direction is still being set.
 
-Vision without implementation reality is fiction. We validate before we iterate. Engineers are involved from the start — not brought in after the design is "done" to figure out how to make it work.
+A product vision is meant to be ambitious – it points years ahead and shouldn't be capped by what we can build today. What must be validated early is the *specific solution* we're about to invest in: can we actually build it, and at what cost? We retire that risk cheaply – with prototypes and spikes – before committing real delivery effort.
 
-A North Star is useful for direction, but useless without a grounded path to get there. If a vision has been redesigned multiple times without shipping, it's not a vision — it's a hallucination.
-
-### Why?
-
-- **Grounded execution**: The gap between "what we want" and "what we can build" is where initiatives go to die. Closing that gap early saves everyone's time.
-- **Engineer involvement**: Engineers closest to the system know what's possible, what's cheap, and what's expensive. Excluding them from early decisions produces designs that don't survive contact with reality.
-- **Accountability**: When engineering signs off on feasibility upfront, there's shared ownership of the outcome. When engineering inherits an infeasible plan, there's only blame.
-
-## Named requirements
-
-Every requirement must trace back to a named person and a concrete customer scenario.
-
-"We need this" is not a requirement. "Customer X needs Y to do Z" is. Anonymous requirements produce vaporware. If nobody can attach a real name and a real use case to a request, it doesn't make the cut.
-
-This applies to features, integrations, process changes, and tooling decisions. If it can't be grounded in a specific, named need, it's speculation — and speculation doesn't ship.
+A North Star gives direction. But if a solution has been redesigned repeatedly and never shipped, the problem isn't the vision – it's the missing loop between discovery and delivery. Ship something, learn, iterate. Endless redesign without a release is a smell, not progress.
 
 ### Why?
 
-- **Accountability**: A named requirement has an owner. An anonymous one has none. Ownership drives follow-through.
-- **Focus**: Grounding work in real customer scenarios prevents building for imaginary use cases or demo-driven development.
-- **Prioritization**: When everything is "needed," nothing is prioritized. Named requirements with concrete scenarios make trade-offs visible and honest.
-- **Trust**: Customers trust us when we solve their actual problems. They lose trust when we build features nobody asked for while their real needs go unmet.
+- **Grounded execution**: The gap between "what we want" and "what we can build" is where initiatives go to die. Closing it early, with engineers in the room, saves everyone's time.
+- **No waterfall handoff**: Designs thrown over the wall to engineering don't survive contact with reality. Shared context up front means shared ownership of the outcome.
+- **Aspiration and reality both matter**: We keep the vision ambitious and test feasibility on the concrete next step. One shouldn't be sacrificed for the other.
+
+## Named problems, not anonymous features
+
+Every piece of work traces back to a real, named customer and a concrete scenario. Not "we need feature Y" – but "Customer X hits problem P when doing Z". Anonymous requests produce vaporware; grounded problems produce value.
+
+We frame work as problems to solve, not solutions to implement. The customer's requested feature is an input, not the spec – our job is to find the best solution to their underlying problem, which is often not the thing they asked for. And no single customer, however large, gets to dictate the roadmap by proxy.
+
+Vision- and insight-led bets are legitimate even when no customer has asked yet – some of the best products come from a problem we saw before the market articulated it. What we reject is speculation with *no* grounding: no named customer, no scenario, no problem. That doesn't ship.
+
+### Why?
+
+- **Focus**: Grounding work in real scenarios kills demo-driven development and features built for imaginary users.
+- **Better solutions**: Solving the underlying problem – rather than building the literal request – is how we deliver value the customer couldn't have specified themselves.
+- **Prioritization**: When everything is "needed," nothing is prioritized. A named problem with a concrete scenario makes trade-offs visible and honest.
+- **Trust**: Customers trust us when we solve their actual problems. They lose trust when the biggest account's wishlist drives the roadmap while everyone else's real needs go unmet.
