@@ -216,6 +216,8 @@ We frame work as problems to solve, not solutions to implement. The customer's r
 
 Vision- and insight-led bets are legitimate even when no customer has asked yet – some of the best products come from a problem we saw before the market articulated it. What we reject is speculation with *no* grounding: no named customer, no scenario, no problem. That doesn't ship.
 
+And a well-grounded problem still isn't automatically worth solving. Not every problem is ours: some fall outside epilot's scope, some are better worked around or owned elsewhere, and some just don't clear the ROI bar – the effort and complexity outweigh the gain in customer happiness or revenue. "Real problem, not worth solving" is a valid, honest answer. This is doubly true in code – every solution we build is one we own and maintain forever.
+
 ### Why?
 
 - **Focus**: Grounding work in real scenarios kills demo-driven development and features built for imaginary users.
