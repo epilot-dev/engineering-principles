@@ -2,15 +2,9 @@
 
 <p align="center"><img alt="epilot" src="./epilot-logo.png" width="200"></p>
 
-<p align="center">
-  <a href="https://epilot.cloud/">Website</a> ·
-  <a href="https://opensource.epilot.cloud">Open Source</a> ·
-  <a href="https://productengineer.org">Product Engineers</a>
-</p>
-
 The following is a list of core principles [epilot](https://epilot.cloud/) product engineers ([What is a product engineer?](https://productengineer.org)) use to make decisions in their daily work.
 
-> 💡 We build in the open. See these principles in practice: **[opensource.epilot.cloud](https://opensource.epilot.cloud)** – the SDKs, tools and libraries we maintain and share.
+<sub>Want to see them in action? Check out what we [build in the open](https://opensource.epilot.cloud).</sub>
 
 <!-- toc -->
 
