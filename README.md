@@ -4,7 +4,7 @@
 
 The following is a list of core principles [epilot](https://epilot.cloud/) product engineers ([What is a product engineer?](https://productengineer.org)) use to make decisions in their daily work.
 
-<sub>Want to see them in action? Check out what we [build in the open](https://opensource.epilot.cloud).</sub>
+<sub>Looking for our open source projects? Find them at [opensource.epilot.cloud](https://opensource.epilot.cloud).</sub>
 
 <!-- toc -->
 
