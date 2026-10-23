@@ -4,8 +4,6 @@
 
 The following is a list of core principles [epilot](https://epilot.cloud/) product engineers ([What is a product engineer?](https://productengineer.org)) use to make decisions in their daily work.
 
-<sub>Want to see them in action? Check out what we [build in the open](https://opensource.epilot.cloud)</sub>
-
 <!-- toc -->
 
 - [Freedom and Responsibility](#freedom-and-responsibility)
@@ -169,3 +167,5 @@ This doesn't mean we compromise on quality, and especially not security. Quality
 
 - **Quick iteration**: Technology is an accelerator for innovation and ultimately solves problems for customers. So the longer a solution for a real problem is perfected and does not get into the hands of our customers, the longer we miss to innovate and drive real customer value.
 - **Big Picture**: It’s easy to overengineer something and solve problems that might not exists or might not be a real problem at the moment (optimize for the unknown future)
+
+Want to see the principles in action? Check out what we [build in the open](https://opensource.epilot.cloud)
